@@ -29,14 +29,13 @@ function Footer() {
             </div>
 
             <div className="space-y-2 text-xs text-gray-800">
-                <h5 className="font-semibold">ABOUT</h5>
+                <h5 className="font-semibold">ABOUT US</h5>
                 <p>Pemba</p>
                 <p>Pemba</p>
                 <p>Pemba</p>
                 <p>Pemba</p>    
                 <p>Pemba</p>
             </div>
-            
         </div>
     )
 }
